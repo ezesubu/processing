@@ -18,7 +18,7 @@ void setup(){
  
 void draw (){
 
-  background(255,255,255);
+  background(0);
   arc(i,200,100,100,inicio1,fin1);
   i+=10;
   if(i==350){
